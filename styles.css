@@ -1,7 +1,11 @@
+html{
+	padding: 200px, 0;
+	overflow-x: hidden;
+}
+
 body {
-    font-family: 'Poppins', sans-serif;
-    color: #303030;
-    padding: 200px, 0;
+  font-family: 'Poppins', sans-serif;
+  color: #303030;
 }
 
 h1 {
@@ -12,7 +16,7 @@ h1 {
 }
 
 .container-fluid {
-  padding: 60px 50px;
+  padding: 5% 10%;
 }
 
 .logo-small {
@@ -30,7 +34,7 @@ h1 {
   color: #f4511e;
   z-index: 9999;
   border: 0;
-  font-size: 20px;
+  font-size: 16px;
   line-height: 1.5;
   border-radius: 0;
 }
@@ -61,14 +65,13 @@ footer {
     text-align: center;
     margin: 25px 0;
   }
-	
-	.btn-lg {
-    width: 100%;
-    margin-bottom: 35px;
-  }
 }
 
 @media screen and (max-width: 480px) {
+	.container-fluid {
+		padding: 5% 7%;
+	}
+	
   .logo {
     font-size: 150px;
   }

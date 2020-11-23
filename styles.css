@@ -16,7 +16,9 @@ h1 {
 }
 
 .container-fluid {
-  padding: 5% 10%;
+	padding: 5% 10%;
+	position: relative;
+	justify-content: center;
 }
 
 .logo-small {

@@ -66,6 +66,16 @@ footer {
   position: absolute;
 }
 
+.footer-copyright{
+  background-color: var(--amarillo);
+  color: var(--gris-claro);
+  padding: 10px 0;
+}
+
+.footer-copyright a{
+  color: var(--blanco)
+}
+
 
 @media screen and (max-width: 768px) {
   .col-sm-6 {

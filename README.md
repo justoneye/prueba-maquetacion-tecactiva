@@ -5,10 +5,10 @@ Objetivo: Construir una interfaz web empleando Bootstrapque se asemeje a las cap
 
 ## Herramientas utilizadas
 
-HTML 5
-CSS 3
-Bootstrap 4.5.2
-Jquery 3.5.1
+- HTML 5
+- CSS 3
+- Bootstrap 4.5.2
+- Jquery 3.5.1
 
 
 ## Estructura del Archivo
@@ -22,7 +22,7 @@ prueba-maquetacion-tecactiva/
   variables.css
   multimedia/
     .. Archivos de audio, imagen, video, etc... 
-    README.md
+  README.md
 ```
 
 

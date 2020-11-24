@@ -22,7 +22,12 @@ p{
 }
 
 .container-fluid {
-	justify-content: center;
+  justify-content: center;
+}
+
+.col-sm-6 {
+  justify-content: center;
+  align-content: center;
 }
 
 .pagina-principal {
@@ -38,16 +43,6 @@ p{
 
 .pagina-principal img{
   width: 100%;
-}
-
-.logo-small {
-  color: var(--amarillo);
-  font-size: 50px;
-}
-
-.logo {
-  color: var(--amarillo);
-  font-size: 200px;
 }
 
 .navbar {

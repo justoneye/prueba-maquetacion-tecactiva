@@ -1,7 +1,6 @@
 @import url("variables.css"); 
 
 html{
-	padding: 200px, 0;
 	overflow-x: hidden;
 }
 
@@ -33,13 +32,13 @@ h1 {
 }
 
 .logo {
-  color: var(--amarillo);;
+  color: var(--amarillo);
   font-size: 200px;
 }
 
 .navbar {
   margin-bottom: 0;
-  color: var(--amarillo);;
+  color: var(--amarillo);
   z-index: 9999;
   border: 0;
   font-size: 16px;
@@ -47,18 +46,21 @@ h1 {
   border-radius: 0;
 }
 
+.nav-item {
+  padding: 0 5px;
+}
+
 .navbar li a, .navbar .navbar-brand {
-  color: var(--amarillo);;
+  color: var(--amarillo);
 }
 
 .navbar-nav li a:hover, .navbar-nav li.active a {
   color: #fff;
-  background-color: var(--amarillo);;
+  background-color: var(--amarillo);
 }
 
 .navbar-default .navbar-toggle {
   border-color: transparent;
-  color: var(--amarillo);;
 }
 
 footer {

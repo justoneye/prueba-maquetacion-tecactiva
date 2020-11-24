@@ -26,6 +26,14 @@ prueba-maquetacion-tecactiva/
 ```
 
 
+## Contenido Multimedia
+
+Para efectos prácticos y llevar a cabo el ejercicio el contenido de la página (imágenes, íconos, logos, etc.) fueron tomados de las siguientes páginas de recursos gratuitos o libres:
+
+- Freepik (https://www.freepik.com) 
+- Flaticon (https://www.flaticon.es/)
+
+
 ## Repositorio GitHub 
 
 https://github.com/justoneye/prueba-maquetacion-tecactiva

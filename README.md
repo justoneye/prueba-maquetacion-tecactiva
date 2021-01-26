@@ -1,6 +1,6 @@
-# Landing Page para VIKA Solutions
+# Prueba de Maquetacion para TECACTIVA
 
-Objetivo: Hacer un landing sencillo para presentar un servicio (a elección).
+Objetivo: Construir una interfaz web empleando Bootstrapque se asemeje a las capturas de pantalla y mockups de Adobe XD.
 
 
 ## Herramientas utilizadas
@@ -11,18 +11,6 @@ Objetivo: Hacer un landing sencillo para presentar un servicio (a elección).
 - Jquery 3.5.1
 
 
-## Requisitos
-
-* Diseño responsive (un layout para desktop y otro para mobile)
-* Debe tener botones (Funcionalidad opcional)
-* Debe tener al menos 1 iframe (responsive y con contenido del iframe a elección)
-* Debe tener modales (usar botones o cualquier otra interacción)
-
-Opcional:
-* Interacción de los botones con el iframe
-* No utilizar ningun framework
-
-
 ## Estructura del Archivo
 
 La carpeta contiene los siguientes archivos:
@@ -30,10 +18,10 @@ La carpeta contiene los siguientes archivos:
 ```
 prueba-maquetacion-tecactiva/
   index.html
-  estilos.css
+  styles.css
   variables.css
   multimedia/
-    ... Archivos de audio, imagen, video, etc... 
+    .. Archivos de audio, imagen, video, etc... 
   README.md
 ```
 
@@ -48,4 +36,4 @@ Para efectos prácticos y llevar a cabo el ejercicio el contenido de la página 
 
 ## Repositorio GitHub 
 
-
+https://github.com/justoneye/prueba-maquetacion-tecactiva
